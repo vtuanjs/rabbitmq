@@ -1,7 +1,7 @@
 {
   "name": "@vtjs/rabbitmq",
   "version": "0.1.0",
-  "description": "Rabbit MQ",
+  "description": "Queue and Event Bus with Rabbit MQ",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
